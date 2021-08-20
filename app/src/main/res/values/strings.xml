@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Air-nomad</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="sheduled">SHEDULED</string>
+</resources>
